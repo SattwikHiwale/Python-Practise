@@ -1,3 +1,5 @@
+# Code for calculating compound intrest
+
 principle = float(input("enter a amount: "))
 rate = float(input("enetr a rate of intrest"))
 time = float(input("eneter a time period")
