@@ -1,3 +1,5 @@
+#Code for calculating area of triangle
+
 a=float(input("enter a first side"))
 b=float(input("enter a second size"))
 c=float(input("enetr a third side"))
