@@ -1,3 +1,5 @@
+#Code for simple intrest calculator
+
 principle=float(input("enetr a principle amount"))
 rate=float(input("enter a rate of intrest"))
 time=float(input("enter a tenure"))
